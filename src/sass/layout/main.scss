@@ -1,0 +1,15 @@
+.app{
+overflow:hidden;
+position: relative;
+}
+
+.main-content{
+background: #3798DC;
+transition: background 0.5s ease;
+}
+
+.content-area{
+max-width: calc(100% - 330px);
+height: 100vh;
+position: relative;
+}
